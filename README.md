@@ -1,9 +1,9 @@
 ## generic_a53-user 8.0.0 OPR6.170623.013 eng.jenkin.20180704.221654 test-keys
 - Manufacturer: huawei
-- Platform: msm8937
+- Platform: msm8917
 - Codename: ATU-L31/ATU-L42
 - Brand: huawei
-- Flavor: msm8937_64-user
+- Flavor: msm8917_64-user
 - Release Version: 8.0.0
 - Id: OPR6.170623.013
 - Incremental: eng.jenkin.20180704.221654
