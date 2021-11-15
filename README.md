@@ -1,3 +1,6 @@
+## Device picture
+<img src="https://fdn2.gsmarena.com/vv/pics/huawei/huawei-y6-2018-1.jpg"/>
+
 ## generic_a53-user 8.0.0 OPR6.170623.013 eng.jenkin.20180704.221654 test-keys
 - Manufacturer: huawei
 - Platform: msm8917
